@@ -1,5 +1,5 @@
 {
   "device":"esp32-sensor",
   "version":"1",
-  "bin-file":""
+  "bin-file":"https://github.com/akostelanska/test/blob/d6fa4a466546c7dade0edf0fc9461389529609f9/esp32-sensor-v1.bin"
 }
