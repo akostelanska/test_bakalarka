@@ -2,6 +2,6 @@
   "type": "esp32-sensor",
   "version": 6,
   "host": "https://raw.githubusercontent.com",
-  "port": 443,
+  "port": 80,
   "bin": "/akostelanska/esp32-OTA-update/main/esp32-sensor-v1.bin"
 }
